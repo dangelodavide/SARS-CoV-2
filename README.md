@@ -1,4 +1,7 @@
-# SARS-CoV-2 Dataset & Reports
+<h1>
+ <img src="https://content.presspage.com/uploads/1369/1920_sars-cov-2-without-background.png?10000" alt="Logo" style="width: 50px; height: 50px; vertical-align: middle;"> 
+SARS-CoV-2 Dataset & Reports
+</h1>
 
 This is an application that provides info about the SARS-CoV-2 virus, including epidemiological data, statistics, and the latest news.
 
