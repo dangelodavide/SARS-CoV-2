@@ -58,9 +58,6 @@ Feel free to make changes to these files according to your requirements.
 
 Contributions to the SARS-CoV-2 application are welcome! If you find any bugs or have suggestions for improvements, please open an issue on the GitHub repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code according to the terms of the license.
 
 ---
 
